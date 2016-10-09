@@ -46,7 +46,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-websocket</artifactId>
-			<scope>test19</scope>
+			<scope>test</scope>
 		</dependency>
 	</dependencies>
 	<build>
